@@ -15,8 +15,7 @@ This project calculates statistical measures (mean, median, mode) for the "Flava
 
 ## Screenshots
 
-![Flavanoid Table](screenshots/flavanoid-table.png)
-![Gamma Table](screenshots/gamma-table.png)
+![image](https://github.com/shreyanshtri26/wine-data/assets/65079159/e12f83a8-b084-4e3e-9102-6275365055d9)
 
 ## Project Structure
 
