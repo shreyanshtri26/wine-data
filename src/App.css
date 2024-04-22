@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 25vmin;  /* Flexible height */
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh; 
+  display: flex;
+  flex-direction: column; 
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2em;  /* Using 'em' for flexible font size */
+  color: white;
+}
+@media (max-width: 768px) { 
+  /* Styles for tablets and smaller screens */
+  .App-header { 
+    flex-direction: column; /* Example change for smaller screens */
+  }
+}
+
+ @media (max-width: 480px) {
+   /* Styles for mobile phones */
+   .App-logo {
+     height: 20vmin;  /* Adjust logo size on smaller screens */
+   }
+ }
+
