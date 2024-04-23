@@ -19,6 +19,6 @@ This project calculates statistical measures (mean, median, mode) for the "Flava
 
 ## Project Structure
 
-- `src/data/wineData.js`: Contains the wine data set as a JavaScript object.
+- `src/data/wineData.json`: Contains the wine data set as a JavaScript object.
 - `src/utils/calculateMeasures.js`: Utility functions to calculate class-wise mean, median, and mode.
-- `src/utils
+
